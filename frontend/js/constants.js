@@ -1,9 +1,9 @@
 const contractAddress = "0x6375a70DfB07f2ee8e4EB9918C01157c8e5F634E"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "IT'S JUST NORMS! ";
+const welcome_h1 = "IT'S JUST NORM! ";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The NORMIEST bunch of Norms roaming the blockchain!';
+const welcome_p = '100 NORMS! Loose on the blockchain! They have vampire teeth, and diamond eyes, and lots of cool shirts and other things! So many NORMS to choose from! MINT YOURS TODAY! Only 100 total NORMS! ';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
